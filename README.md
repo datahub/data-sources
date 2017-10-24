@@ -10,6 +10,7 @@
  - [NWS Great Lakes: Wave height](http://www.crh.noaa.gov/greatlakes/?c=map&l=gl&p=a)
  - [Buoys](http://glbuoys.glos.us/)
  - [UWM - Freshwater Sciences](http://uwm.edu/glos/data/)
+ - [NOAA CoastWatch data](https://coastwatch.glerl.noaa.gov/)
 
 ### Snowfall
 - [Daily U.S. Snowfall and Snow Depth, 2015 - today](https://www.ncdc.noaa.gov/snow-and-ice/daily-snow/)
