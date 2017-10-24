@@ -8,7 +8,8 @@
 ### Great Lakes
  - [Great Lakes Environmental Research Laboratory: Forecasts](https://www.glerl.noaa.gov//res/glcfs/)
  - [NWS Great Lakes: Wave height](http://www.crh.noaa.gov/greatlakes/?c=map&l=gl&p=a)
- - [Bouys](http://glbuoys.glos.us/)
+ - [Buoys](http://glbuoys.glos.us/)
+ - [UWM - Freshwater Sciences](http://uwm.edu/glos/data/)
 
 ### Snowfall
 - [Daily U.S. Snowfall and Snow Depth, 2015 - today](https://www.ncdc.noaa.gov/snow-and-ice/daily-snow/)
