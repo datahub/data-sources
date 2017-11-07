@@ -17,5 +17,5 @@
 - [National Snowfall Analysis](https://www.nohrsc.noaa.gov/snowfall/)
 
 ## Counties
- - [Wisconsin County Centers](wi-counties-centers.csv)
+ - [Wisconsin County Centers](wi-county-centers.csv)
    - The zoom levels are for Google Maps, but subtract 1.5 for use with Mapbox.
