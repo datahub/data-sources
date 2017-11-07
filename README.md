@@ -15,3 +15,7 @@
 ### Snowfall
 - [Daily U.S. Snowfall and Snow Depth, 2015 - today](https://www.ncdc.noaa.gov/snow-and-ice/daily-snow/)
 - [National Snowfall Analysis](https://www.nohrsc.noaa.gov/snowfall/)
+
+## Counties
+ - [Wisconsin County Centers](wi-counties-centers.csv)
+   - The zoom levels are for Google Maps, but subtract 1.5 for use with Mapbox.
