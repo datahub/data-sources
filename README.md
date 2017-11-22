@@ -19,3 +19,8 @@
 ## Counties
  - [Wisconsin County Centers](wi-county-centers.csv)
    - The zoom levels are for Google Maps, but subtract 1.5 for use with Mapbox.
+
+## State Legislature
+ - A micro [script](https://github.com/datahub/wisconsin-state-legislature-info) to parse state legislature info from website
+   - [State Assembly](https://github.com/datahub/wisconsin-state-legislature-info/blob/master/state-assembly.csv)
+   - [State Senate](https://github.com/datahub/wisconsin-state-legislature-info/blob/master/state-senate.csv)
