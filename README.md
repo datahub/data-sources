@@ -15,6 +15,7 @@
 ### Snowfall
 - [Daily U.S. Snowfall and Snow Depth, 2015 - today](https://www.ncdc.noaa.gov/snow-and-ice/daily-snow/)
 - [National Snowfall Analysis](https://www.nohrsc.noaa.gov/snowfall/) and its [FTP](https://www.nohrsc.noaa.gov/snowfall/data/)
+- [SNODAS](http://nsidc.org/data/g02158) and [FTP](ftp://sidads.colorado.edu/DATASETS/NOAA/G02158/)
 
 ## Counties
  - [Wisconsin County Centers](wi-county-centers.csv)
