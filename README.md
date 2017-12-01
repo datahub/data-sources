@@ -1,5 +1,12 @@
 # Sources for Wisconsin related data
 
+## City of Milwaukee
+
+### Health inspections
+- [Food establishment inspection reporting system](http://itmdapps.milwaukee.gov/cehri/search.jsp)
+  - Current food inspections can be found at [this site](http://healthspace.com/Clients/WI/Milwaukee/Web.nsf/home.xsp) (which doesn't look very official).
+  - Past inspections can be found [here](http://itmdapps.milwaukee.gov/cehri/sb.jsp?conch=8892306002t5G6cr9VPdkfssg2zI5r4RBoV03s6Vv5B).
+
 ## Weather
 
 ### General
