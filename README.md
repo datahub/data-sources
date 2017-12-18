@@ -13,7 +13,7 @@
 - [NOAA Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/datasets)
 
 ### Great Lakes
- - [Great Lakes Environmental Research Laboratory: Forecasts](https://www.glerl.noaa.gov//res/glcfs/)
+ - [Great Lakes Environmental Research Laboratory (GLERL): Forecasts](https://www.glerl.noaa.gov//res/glcfs/)
  - [NWS Great Lakes: Wave height](http://www.crh.noaa.gov/greatlakes/?c=map&l=gl&p=a)
  - [Buoys](http://glbuoys.glos.us/)
  - [UWM - Freshwater Sciences](http://uwm.edu/glos/data/)
@@ -27,6 +27,9 @@
 ## Counties
  - [Wisconsin County Centers](wi-county-centers.csv)
    - The zoom levels are for Google Maps, but subtract 1.5 for use with Mapbox.
+
+## Wind
+- [GLERL: wind and air temperature from Milwaukee lakeshore (2-minute-interval)](https://www.glerl.noaa.gov/metdata/mil/)
 
 ## State Legislature
  - A micro [script](https://github.com/datahub/wisconsin-state-legislature-info) to parse state legislature info from website
