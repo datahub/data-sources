@@ -31,7 +31,19 @@
 ## Wind
 - [GLERL: wind and air temperature from Milwaukee lakeshore (2-minute-interval)](https://www.glerl.noaa.gov/metdata/mil/)
 
-## State Legislature
+## Politics
+
+### State Legislature
  - A micro [script](https://github.com/datahub/wisconsin-state-legislature-info) to parse state legislature info from website
    - [State Assembly](https://github.com/datahub/wisconsin-state-legislature-info/blob/master/state-assembly.csv)
    - [State Senate](https://github.com/datahub/wisconsin-state-legislature-info/blob/master/state-senate.csv)
+
+### Elections
+- Campaign finance:
+  - [Federal Election Commission (FEC)](https://www.fec.gov/)
+  - campaign finance data includes expenditures, disbursements, loans for candidates, super PACs, etc. 
+  - See NICAR tipsheet by Chris Schnaars, [Wagging the Dog](https://www.dropbox.com/s/ule7ub4fk6psovj/Christopher%20Schnaars%27%20tipsheet.pdf?dl=0), to see what's available and caveats
+- How elections are administered:
+  - [Election Administration and Voting Survey (EAVS)](https://www.eac.gov/research-and-data/datasets-codebooks-and-surveys/)
+  - Contains information on voter registration, absentee voters, polling place workers (things like age and difficultly in finding workers), voting machines.
+  - Most states report at the county-level. Wisconsin reports at the ward-level.
