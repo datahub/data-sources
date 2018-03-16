@@ -11,6 +11,7 @@
 
 ### General
 - [NOAA Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/datasets)
+  - [Monitoring stations](https://www.ncdc.noaa.gov/monitoring-references/)
 
 ### Great Lakes
  - [Great Lakes Environmental Research Laboratory (GLERL): Forecasts](https://www.glerl.noaa.gov//res/glcfs/)
