@@ -48,3 +48,10 @@
   - [Election Administration and Voting Survey (EAVS)](https://www.eac.gov/research-and-data/datasets-codebooks-and-surveys/)
   - Contains information on voter registration, absentee voters, polling place workers (things like age and difficultly in finding workers), voting machines.
   - Most states report at the county-level. Wisconsin reports at the ward-level.
+
+
+## State 
+
+### Natural area map data
+
+- [DRN GIS data](https://data-wi-dnr.opendata.arcgis.com/)
