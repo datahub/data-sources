@@ -1,5 +1,9 @@
 # Sources for Wisconsin related data
 
+## General Wisconsin Data (Census)
+
+- [Census Wisconsin QuickFacts](https://www.census.gov/quickfacts/wi)
+
 ## City of Milwaukee
 
 ### Health inspections
